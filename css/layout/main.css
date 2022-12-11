@@ -1,0 +1,9 @@
+main {
+    padding: var(--tam-06) var(--tam-07);
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    gap: var(--tam-05);
+}

@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* COLORS */
+    --color-01: #574AE8;
+    --color-02: #3EA1DB;
+    --color-03: #FFF;
+    --color-04: rgba(255, 255, 255, 0.2);
+    --color-05: #717171;
+    --color-06: #1A202C;
+    --color-07: #F3F5F7;
+   
+    /* FONTE - FAMILY */
+    --ff-01: 'Lexend Deca', sans-serif;
+   
+    /* FONTE - SIZE */
+    --fs-01: 1.6rem;
+    --fs-02: 1.8rem;
+    --fs-03: 2rem;
+    --fs-04: 2.4rem;
+    --fs-05: 2.6rem;
+    --fs-06: 3rem;
+    --fs-07: 1.4rem;
+    
+    /* TAMANHOS */
+    --tam-01: 1rem;
+    --tam-02: 1.8rem;
+    --tam-03: 2.4rem;
+    --tam-04: 5rem;
+    --tam-05: 4rem;
+    --tam-06: 7rem;
+    --tam-07: 2rem;
+    
+    /* LINE HEIGTH */
+    --lh-01: 2rem;
+    --lh-02: 3rem;
+    --lh-03: 3.2rem;
+
+    font-size: 62.5%;
+}
+
+body {
+    font-family: var(--ff-01);
+    font-size: 1.6rem;
+    background-color: var(--color-07);
+}
+
+a {
+    text-decoration: none;
+}

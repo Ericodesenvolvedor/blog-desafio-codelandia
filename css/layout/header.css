@@ -1,0 +1,10 @@
+.header-container {
+    background: linear-gradient(88.27deg, var(--color-01) 0%, var(--color-02) 100%);
+    padding: var(--tam-06);
+}
+
+@media screen and (max-width: 1000px) {
+    .header-container {
+        padding: var(--tam-06) var(--tam-07);
+    }
+}
