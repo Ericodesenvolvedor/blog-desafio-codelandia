@@ -6,6 +6,8 @@
 
 Uma desafio front-end proposto pela comunidade codelândia, criar um blog simples com html e css.
 
+> 🎯 Desafio #1
+
 [Acesse aqui o site](https://ericodesenvolvedor.github.io/blog-desafio-codelandia/)
 
 ### Ferramentas utilizadas
